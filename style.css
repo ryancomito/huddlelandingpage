@@ -7,3 +7,13 @@ body {
   background-image: url(/images/bg-desktop.svg);
   background-color: hsl(257, 40%, 49%);
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 2rem;
+}
